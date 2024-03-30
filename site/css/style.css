@@ -1,0 +1,123 @@
+.conteiner {
+	background-color:#580D75;
+	width:950px;
+	height:750px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.ust{
+	background-color:#FFFF80;
+	width:840px;
+	height:60px;
+	margin-left:20px;
+	margin-top:20px;
+	padding-left:60px;
+	padding-top:50px;
+}
+
+.anasayfa {
+	margin-left:100px;
+	float:left;
+}
+
+.hakkimda{
+	margin-left:100px;
+	float:left;
+}
+
+.urunler{
+	margin-left:100px;
+	float:left;
+}
+
+.iletisim {
+	margin-left:100px;
+	float:left;
+}
+
+a{
+	text-decoration:none;
+	
+}
+
+a:visited {
+	color:#F00;
+}
+
+a:hover {
+	color:#69C;
+}
+
+a:link {
+	color:#F3C;
+}
+
+.orta{
+	background-color:#8080FF;
+	width:900px;
+	height:200px;
+	margin-left:20px;
+	margin-top:20px;
+}
+
+
+
+.altresim{
+	background-color:#A9C9ED;
+	width:900px;
+	height:340px;
+	margin-left:20px;
+	margin-top:20px;
+}
+
+.alturunler{
+	background-color:#A9C9ED;
+	width:670px;
+	height:340px;
+	margin-left:20px;
+	margin-top:20px;
+	padding-top:50px;
+	padding-left:230px;
+}
+
+.altiletisim{
+	background-color:#A9C9ED;
+	width:670px;
+	height:340px;
+	margin-left:20px;
+	margin-top:20px;
+	padding-top:50px;
+	padding-left:230px;
+}
+
+.althakkimda{
+	background-color:#A9C9ED;
+	width:900px;
+	height:340px;
+	margin-left:20px;
+	margin-top:20px;
+}
+.firin{
+	width:200px;
+	height:200px;
+	margin-left:70px;
+	margin-top:60px;
+	float:left;
+}
+
+.buzdolabi{
+	width:200px;
+	height:200px;
+	margin-left:70px;
+	margin-top:60px;
+	float:left;
+}
+
+.camasirmakinesi{
+	width:200px;
+	height:200px;
+	margin-left:70px;
+	margin-top:60px;
+	float:left;
+}
